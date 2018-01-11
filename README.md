@@ -4,7 +4,7 @@ ScrollSpy do Bootstrap, ativa os itens do menu de navegação à medida que o us
 
 ## Veja ao vivo
 
-**[demo](http://cristianefaria.com/demo-bootstrap-scrollspy/)**
+**[demo](http://cristianefaria.com/demo/scrollspy-com-bootstrap/)**
 
 ## Como funciona
 
