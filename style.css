@@ -1,0 +1,49 @@
+/* GERAL */
+section{
+   color: white;
+   padding: 10% 15%;
+   
+}
+
+/* CONTEUDO */
+h1{
+    text-transform: uppercase;
+}
+p{
+    margin-top: 25px;
+}
+#section1{
+    background-color: blue;
+}
+#section2{
+    background-color: darkred;
+}
+#section3{
+    background-color:darkorange;
+}
+#section4{
+    background-color: darkgreen;
+}
+
+
+
+/********************
+    FOOTER 
+********************/
+footer{
+    padding: 10px;
+    bottom: 0;
+    background-color: #f8f8f8;
+    text-align: center;
+}
+
+footer .copyright{
+    padding:5px 0 5px;
+    font-size:1.1em;
+}
+
+footer .copyright a{
+    color:#0d3b66;
+    text-decoration: none;
+}
+
