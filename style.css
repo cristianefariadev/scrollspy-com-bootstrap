@@ -1,6 +1,6 @@
 /* GERAL */
 section{
-   color: white;
+   color:#0d3b66;
    padding: 10% 15%;
    
 }
@@ -13,16 +13,17 @@ p{
     margin-top: 25px;
 }
 #section1{
-    background-color: blue;
+    margin-top: 50px;
+    background-color: #cae2f9;
 }
 #section2{
-    background-color: darkred;
+    background-color: white;
 }
 #section3{
-    background-color:darkorange;
+    background-color: #cae2f9;
 }
 #section4{
-    background-color: darkgreen;
+    background-color: white;
 }
 
 
@@ -33,7 +34,7 @@ p{
 footer{
     padding: 10px;
     bottom: 0;
-    background-color: #f8f8f8;
+    background-color: #cae2f9;
     text-align: center;
 }
 
@@ -46,4 +47,3 @@ footer .copyright a{
     color:#0d3b66;
     text-decoration: none;
 }
-
